@@ -59,8 +59,8 @@ $ python Run.py
 - The website server is having problems or there are no active users on this website.
 
 ### Error in the tools?
-- Maybe you entered something wrong that is not what you were told to do.
 - The website is under maintenance or in an inactive state.
+- Maybe you entered something wrong that is not what you were told to do.
 - The stability of your network also affects how to run this tool.
 
 ### Submitting your next view?
