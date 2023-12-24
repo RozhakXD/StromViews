@@ -38,9 +38,9 @@ $ python Run.py
 ```
 
 ### Which link can be used?
+- The correct and supported link is https://www.instagram.com/p/C08X1bNvh7g/!
 - You can change the link **"https://www.instagram.com/reels/C08X1bNvh7g/"** to **"https://www.instagram.com/p/C08X1bNvh7g/"**!
 - I suggest getting the video reels link via the Instagram application.
-- The correct and supported link is https://www.instagram.com/p/C08X1bNvh7g/!
 
 ### Why login failed?
 - Please change your Instagram account password then log in again.
